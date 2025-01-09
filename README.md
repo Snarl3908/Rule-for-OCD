@@ -2,7 +2,7 @@
 
 THIS IS A FORK.
 
-# Rule for OCD
+## Rule for OCD
 
 OCD 是强迫症的简称
 
