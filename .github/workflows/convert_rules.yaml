@@ -18,7 +18,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          repository: peiyingyao/Rule-for-OCD
+          repository: Snarl3908/Rule-for-OCD
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set Environment Variables and Configure Git
@@ -75,6 +75,8 @@ jobs:
           ./script/convert_rules.sh
 
       - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             git add --all
