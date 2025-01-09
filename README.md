@@ -1,6 +1,6 @@
 # WARNING!
 
-This is a FORK.
+THIS IS A FORK.
 
 # Rule for OCD
 
