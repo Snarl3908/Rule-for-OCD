@@ -14,7 +14,6 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 ec218191163220.useast2.compute.amazonaws.com
 evan.im
 exodus.desync.com
@@ -28,11 +27,9 @@ ipv4announce.sktorrent.eu
 ipv6.rer.lol
 isk.richardsw.club
 ismaarino.com
-leettracker.moe
 martingebhardt.eu
 ns1.xfins.com
 nyaa.tracker.wf
-open.acgtracker.com
 open.demonii.com
 open.dstud.io
 open.freetracker.ga
@@ -63,6 +60,7 @@ tr.abir.ga
 tr.burnabyhighstar.com
 tr.nyacat.pw
 tr.zukizuki.org
+tr3.ysagin.top
 tr4ck3r.duckdns.org
 trackerudp.gbitt.info
 trackerzhuqiy.dgj055.icu
@@ -77,7 +75,6 @@ tracker.bt4g.com
 tracker.bz
 tracker.cloudit.top
 tracker.corpscorp.online
-tracker.cyberia.is
 tracker.darkness.services
 tracker.ddunlimited.net
 tracker.dler.com
@@ -105,11 +102,13 @@ tracker.renfei.net
 tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
+tracker.theoks.net
 tracker.tinyvps.com
 tracker.torrent.eu.org
 tracker.torrustdemo.com
 tracker.tryhackx.org
 tracker.vanitycore.co
+tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.yumehatsuyuki.moe
