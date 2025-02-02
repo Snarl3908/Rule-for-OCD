@@ -466,6 +466,7 @@ ads.dofunapps.com
 ads.dvworld.com.tw
 ads.icloseli.cn
 ads.icloseli.com
+ads.laodongbinhduong.org.vn
 ads.memob.com
 ads.mobadvent.com
 ads.music.126.net
@@ -508,6 +509,7 @@ adx.apiok.net
 adx.appsdk.com.cn
 adx.autohome.com.cn
 adx.doumpaq.com
+adx.edutimes.com.vn
 adx.hasmobi.net
 adx.kuaiyiad.com
 adx.lsosad.com
@@ -2076,6 +2078,7 @@ qooww.com
 qps.cint.com
 qq88bet.net
 qqdata.ab.qq.com
+quangcao.baovannghe.com.vn
 quinoapersonalidentifyprod.sense360eng.com
 qulishi.com
 qwe77.com
@@ -2522,6 +2525,7 @@ tracking.jetpackdigital.com
 tracking.pandoiq.com
 tracking.rus.miui.com
 tracking.tomshardware.co.uk
+tracking.vht.com.vn
 traffic.fstsrv.com
 trialpay.com
 tribez.gameinsight.com
@@ -16562,12 +16566,14 @@ play.kakao.com
 +.0676el9lskux.top
 +.06789.xyz
 +.0692e14e66.com
++.06969451.xyz
 +.06a21eff24.com
 +.06cffaae87.com
 +.070880.com
 +.07171.com
 +.072551.xyz
 +.072c4580e8.com
++.07327127.xyz
 +.07421283.xyz
 +.0755rc.com
 +.0756j.com
@@ -16784,6 +16790,7 @@ play.kakao.com
 +.10tide.com
 +.11.yiqig.cn
 +.11.yiqig.com
++.11006451.xyz
 +.1100ad.com
 +.1104547249.rsc.cdn77.org
 +.1111supjavcom.xyz
@@ -17043,6 +17050,7 @@ play.kakao.com
 +.1buo.icu
 +.1buu1.penyouw.com
 +.1c09d36b99.com
++.1c0c3fde9d.com
 +.1c174d5fe7.com
 +.1c447fc5b7.com
 +.1c52e1e2.live
@@ -17755,6 +17763,7 @@ play.kakao.com
 +.34e224a3bf.com
 +.34pavouhj7.com
 +.350c2478fb.com
++.35452888.xyz
 +.3562wsgkbcm.xyz
 +.35722e75b1.com
 +.3574fd3373.com
@@ -19278,6 +19287,7 @@ play.kakao.com
 +.93ta.cn
 +.93vitoo.com
 +.9403d738ec.com
++.9421d59b1d.com
 +.943d6e0643.com
 +.943e401be2.com
 +.94597672.xyz
@@ -20750,7 +20760,6 @@ play.kakao.com
 +.ad.krutilka.ru
 +.ad.l2b.co.za
 +.ad.land.to
-+.ad.lapa.pub
 +.ad.leap.app
 +.ad.letmeads.com
 +.ad.lgappstv.com
@@ -20859,7 +20868,6 @@ play.kakao.com
 +.ad.viewus.co.kr
 +.ad.virtualnights.com
 +.ad.vkool.net
-+.ad.vkoolzzz.net
 +.ad.vomedia.ru
 +.ad.wavu.hu
 +.ad.weatherbug.com
@@ -22410,7 +22418,6 @@ play.kakao.com
 +.ads.ksl.com
 +.ads.kure.tv
 +.ads.lamchame.vn
-+.ads.laodongbinhduong.org.vn
 +.ads.laodongnghean.vn
 +.ads.leovegas.com
 +.ads.lesbianpersonals.com
@@ -22666,7 +22673,6 @@ play.kakao.com
 +.ads.thecoolhunter.net
 +.ads.thecrimson.com
 +.ads.thefrisky.com
-+.ads.thegioitiepthi.vn
 +.ads.theindependent.com
 +.ads.themovienation.com
 +.ads.theolympian.com
@@ -22768,7 +22774,6 @@ play.kakao.com
 +.ads.xboxscene.com
 +.ads.xedoisong.vn
 +.ads.xemphimso.com
-+.ads.xemtivisohd.net
 +.ads.xhamster.com
 +.ads.xlxtra.com
 +.ads.xtra.ca
@@ -23642,12 +23647,10 @@ play.kakao.com
 +.adx.baolongan.vn
 +.adx.chinmedia.vn
 +.adx.com.ru
-+.adx.edutimes.com.vn
 +.adx.gayboy.at
 +.adx.groupstate.com
 +.adx.hendersonvillenews.com
 +.adx.hoanggia.net.vn
-+.adx.hongtinnhanh.com
 +.adx.io
 +.adx.kul.vn
 +.adx.mala.cn
@@ -24401,6 +24404,7 @@ play.kakao.com
 +.aiftakrenge.com
 +.aifwjekfe.xyz
 +.aigaithojo.com
++.aigeersaibouk.net
 +.aigenstud.com
 +.aigfednd.icu
 +.aigheebsu.net
@@ -26093,7 +26097,6 @@ play.kakao.com
 +.api.mumuglobal.com
 +.api.nas.nct.vn
 +.api.newsfeed.intl.miui.com
-+.api.ozui.vn
 +.api.pubfinity.com
 +.api.receptivity.io
 +.api.revenuads.com
@@ -26762,6 +26765,7 @@ play.kakao.com
 +.as01271kkp.xyz
 +.as01280kkp.xyz
 +.as01281kkp.xyz
++.as02010kkp.xyz
 +.as1.inoventiv.com
 +.as1.wenku.baidu.com
 +.as5000.com
@@ -29751,6 +29755,7 @@ play.kakao.com
 +.bestvideoapp.com
 +.bestvpnapp.com
 +.bestvpn.click
++.best0ne.com
 +.best2017games.com
 +.best2019gamesweb1.com
 +.best2020gamesweb1.com
@@ -30440,6 +30445,7 @@ play.kakao.com
 +.bistroduy.ru
 +.bitad.com
 +.bit.kozow.com
++.bitad.ir
 +.bitadv.co
 +.bitanalysis.net
 +.bitbank.la
@@ -31358,6 +31364,7 @@ play.kakao.com
 +.boritra.com
 +.bornanguava.click
 +.bornebeautify.com
++.bornmandemicria.co.in
 +.bornprix.fr
 +.bornrefreshmentheater.com
 +.borofez.com
@@ -33805,7 +33812,6 @@ play.kakao.com
 +.cdn.allsportsflix.best
 +.cdn.altitudeplatform.com
 +.cdn.amzuu.com
-+.cdn.apiconnect.io
 +.cdn.appsmav.com
 +.cdn.assets.craveonline.com
 +.cdn.atlassbx.com
@@ -36218,6 +36224,7 @@ play.kakao.com
 +.cokepompositycrest.com
 +.cokerymyocele.shop
 +.colmed.com
++.coladinlized.com
 +.colanbalkily.com
 +.colanderdecrepitplaster.com
 +.colanx.com
@@ -37353,7 +37360,6 @@ play.kakao.com
 +.counter.nope.dk
 +.counter.nowlinux.com
 +.counter.ntdvn.com
-+.counter.ntdvn.net
 +.counter.ok.ee
 +.counter.promodeejay.net
 +.counter.sberbank.ru
@@ -41710,6 +41716,7 @@ play.kakao.com
 +.digitalthrottle.com
 +.digitalunion.cn
 +.digitfoto.fr
++.digitklosh.top
 +.dignifiedclipbum.com
 +.dignityhourmulticultural.com
 +.dignityprop.com
@@ -46445,6 +46452,7 @@ play.kakao.com
 +.exacttarget.api.mashery.com
 +.exaggeratekindnessvocal.com
 +.exaggeratestamppost.com
++.exaggerating.makeup
 +.exaleprn.com
 +.exaltationinsufficientintentional.com
 +.exaltbelow.com
@@ -51452,7 +51460,6 @@ play.kakao.com
 +.girlstretchingsplendid.com
 +.girlwallpaper.pro
 +.girnalnemean.com
-+.girohjalm.com.se
 +.girtijoo.com
 +.gishejuy.com
 +.gishpurer.shop
@@ -52940,6 +52947,7 @@ play.kakao.com
 +.growthtransport.com
 +.grozeesh.com
 +.grphfzutw.xyz
++.grpvyrybbqhob.com
 +.grqjpukbyvypq.xyz
 +.grrngjxqno.com
 +.grs.hicloud.com
@@ -56667,6 +56675,7 @@ play.kakao.com
 +.iecmca.xyz
 +.iedalo.fr
 +.iedtalruy.com
++.iedullkg.com
 +.iee5.com
 +.ieememberhima.xyz
 +.ieequd.icu
@@ -64098,7 +64107,6 @@ play.kakao.com
 +.linksmart.com
 +.linktrade.net
 +.link.axios.com
-+.link.cado.pro
 +.link.email.usmagazine.com
 +.link.go.chase
 +.link.oddsscanner.net
@@ -65461,6 +65469,7 @@ play.kakao.com
 +.lstonorallantyne.com
 +.lsuwndhxt.com
 +.lsvblpynuezkbf.com
++.lsxvnzif.icu
 +.lsyliel.top
 +.lszydrtzsh.com
 +.lt.angelfire.com
@@ -66598,7 +66607,6 @@ play.kakao.com
 +.marketing.desertcart.com
 +.marketing.hearstmagazines.nl
 +.marketing.hubjs.com
-+.marketing.itgeek.vn
 +.marketing.mangacopy.com
 +.marketing.nyi.net
 +.marketing.osijek031.com
@@ -67198,7 +67206,6 @@ play.kakao.com
 +.media.bonnint.net
 +.media.charter.com
 +.media.comeon.com
-+.media.dabong247.com
 +.media.easyads.bg
 +.media.espaceplus.net
 +.media.foxweb.co.il
@@ -69148,6 +69155,7 @@ play.kakao.com
 +.moon.ibytecdn.cn
 +.moonads.net
 +.mooncklick.com
++.mooneyejollier.top
 +.moonheappyr.com
 +.moonicorn.network
 +.moonify.io
@@ -69303,6 +69311,7 @@ play.kakao.com
 +.motorocio.com
 +.motorpressestatistik.de
 +.motosal.net
++.motphimqq.pro
 +.motrixi.com
 +.motsardi.net
 +.motsjnv.cn
@@ -73499,6 +73508,7 @@ play.kakao.com
 +.oektiu.xyz
 +.oelwojattkd.xyz
 +.oemifaobrxe.com
++.oempafnyfiexpe.com
 +.oeokfmroaiuwo.xyz
 +.oepce.xyz
 +.oeqirr.com
@@ -73966,6 +73976,7 @@ play.kakao.com
 +.olongercrak.xyz
 +.olopruy.com
 +.olpfeere.com
++.olpoxumbkput.com
 +.olpxupvisl.com
 +.olq18dx1t.com
 +.olqead.com
@@ -74047,6 +74058,7 @@ play.kakao.com
 +.omkxes.xyz
 +.omlube.com
 +.ommatearittock.digital
++.ommjkomvweg.com
 +.omnatuor.com
 +.omniadblocket.herokuapp.com
 +.omniads.com
@@ -74233,6 +74245,7 @@ play.kakao.com
 +.onkafxtiqcu.com
 +.onkavst.com
 +.onkodjwuq.com
++.online1.co.in
 +.onlineadnetwork.com
 +.onlinebanners.nl
 +.onlinecasino.shengen.ru
@@ -75304,6 +75317,7 @@ play.kakao.com
 +.ovbgeum.cn
 +.ovcgsnrwp.com
 +.ovdimin.buzz
++.oveakmqk.com
 +.oveechoops.xyz
 +.ovejqw.xyz
 +.ovembe.com
@@ -81779,11 +81793,9 @@ play.kakao.com
 +.quancuncq.xyz
 +.quandoiviettel.com
 +.quangcao.24h.com.vn
-+.quangcao.baovannghe.com.vn
 +.quangcao.fff.com.vn
 +.quangcao.thanhnien.vn
 +.quangcao.tuoitre.vn
-+.quangcao247.com.vn
 +.quangcaococcoc.vn
 +.quangcaodantri.vn
 +.quangnamquetoi.weebly.com
@@ -84677,6 +84689,7 @@ play.kakao.com
 +.rmhfrtnd.com
 +.rmhptjwikttv.com
 +.rmioswx.icu
++.rmishe.com
 +.rmixfgusqoc.com
 +.rmmyqc.com
 +.rmndme.com
@@ -86778,7 +86791,6 @@ play.kakao.com
 +.sd8015.xyz
 +.sda.seesaa.jp
 +.sda.seksohub.com
-+.sda.tamdiem247.com
 +.sdamcsb.top
 +.sdarotil.org
 +.sdarottv.org
@@ -87281,6 +87293,7 @@ play.kakao.com
 +.sensahome.fr
 +.sensationnominatereflect.com
 +.sensationtwigpresumptuous.com
++.senscirrascul.co.in
 +.sensefifth.com
 +.sensematernityexcitement.com
 +.senseresound.com
@@ -91700,7 +91713,6 @@ play.kakao.com
 +.stats.studyquicks.com
 +.stats.stylight.de
 +.stats.suite101.com
-+.stats.tamdiem247.com
 +.stats.tehila.gov.il
 +.stats.telegraph.co.uk
 +.stats.thevideo.me
@@ -94155,6 +94167,7 @@ play.kakao.com
 +.tbaffiliate.com
 +.tbao684tryo.com
 +.tbb0001.top
++.tbbfdr.icu
 +.tbcconnect.ge
 +.tbcgumkadc.xyz
 +.tbdwtn.xyz
@@ -94596,6 +94609,7 @@ play.kakao.com
 +.temperickysmelly.com
 +.temperrunnersdale.com
 +.tempertrick.com
++.tempisite.com
 +.templa.xyz
 +.templatedownload.top
 +.templates.buscape.com
@@ -97009,9 +97023,7 @@ play.kakao.com
 +.track.juststarz.com
 +.track.ktplay.com
 +.track.kyna.vn
-+.track.lapa.pub
 +.track.lc.quark.cn
-+.track.lemonnovel.com
 +.track.lettingaproperty.com
 +.track.libii.cn
 +.track.lookerpets.com
@@ -97186,7 +97198,6 @@ play.kakao.com
 +.tracker.edupia.vn
 +.tracker.fado.vn
 +.tracker.farsnews.ir
-+.tracker.gigaphim.com
 +.tracker.gpcdn.pl
 +.tracker.iplocation.net
 +.tracker.jabama.com
@@ -97356,7 +97367,6 @@ play.kakao.com
 +.tracking.gvm.com.tw
 +.tracking.hapiwork.vn
 +.tracking.hd.se
-+.tracking.hongtinnhanh.com
 +.tracking.hotel.check24.de
 +.tracking.ht.se
 +.tracking.hubs.vn
@@ -97476,7 +97486,6 @@ play.kakao.com
 +.tracking.vegaid.vn
 +.tracking.venturify.at
 +.tracking.vetlandaposten.se
-+.tracking.vht.com.vn
 +.tracking.vietbao.vn
 +.tracking.viewlift.com
 +.tracking.viez.vn
@@ -98778,6 +98787,7 @@ play.kakao.com
 +.twcount.com
 +.twcouponcenter.com
 +.tweakarrangement.com
++.tweelessatic.co.in
 +.tweeseconable.website
 +.tweetbuzz.jp
 +.tweetdeck.fr
@@ -99602,6 +99612,7 @@ play.kakao.com
 +.umcsghecmszp.com
 +.umdgene.com
 +.umebella.com
++.umedadelemp.com
 +.umedadelempanyi.info
 +.umekana.ru
 +.umentrandings.xyz
@@ -101020,6 +101031,7 @@ play.kakao.com
 +.vaikijie.net
 +.vaikrywlbmca.com
 +.vailedapetaly.com
++.vaimucuvikuwu.net
 +.vainanalyst.com
 +.vainews.cn
 +.vainfulkmole.com
@@ -102561,6 +102573,7 @@ play.kakao.com
 +.vipcaptcha.live
 +.vipcardvib.com
 +.vipcpms.com
++.vipdragonapp.monster
 +.viperishly.com
 +.viperotika.net
 +.vipfanyongwang.com
@@ -106578,7 +106591,6 @@ play.kakao.com
 +.www.fetischpornos.cxa.de
 +.www.fickenfickenficken.cxa.de
 +.www.fickenxxx.cxa.de
-+.www.filasverigese.com
 +.www.findalgorithm.com
 +.www.fineclicks.com
 +.www.firemouth.plus.com
@@ -109935,6 +109947,7 @@ play.kakao.com
 +.zlncvn.xyz
 +.zlog.mp3.zing.vn
 +.zlog.zingmp3.vn
++.zloweb.me
 +.zlp6s.pw
 +.zltndp.xyz
 +.zlviiaom.space
