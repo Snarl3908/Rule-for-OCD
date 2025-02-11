@@ -9,11 +9,11 @@ bt.okmp3.ru
 bt.poletracker.org
 bt.rer.lol
 bt1.xxxxbt.cc
-bt2.080609.xyz
 buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 ec218191163220.useast2.compute.amazonaws.com
 evan.im
 exodus.desync.com
@@ -25,7 +25,9 @@ home.yxgz.club
 ipv4.rer.lol
 ipv4announce.sktorrent.eu
 ipv6.rer.lol
+isk.richardsw.club
 ismaarino.com
+leettracker.moe
 martingebhardt.eu
 newline.net
 ns1.xfins.com
@@ -54,9 +56,7 @@ t.jaekr.sh
 t.overflow.biz
 taciturnshadow.spb.ru
 tk.greedland.net
-torrent.tracker.durukanbal.com
 torrentsmd.com
-tr.abir.ga
 tr.burnabyhighstar.com
 tr.nyacat.pw
 tr.zukizuki.org
@@ -97,6 +97,7 @@ tracker.moeking.me
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.ololosh.space
 tracker.opentrackr.org
 tracker.openwebtorrent.com
 tracker.qu.ax
@@ -107,12 +108,12 @@ tracker.srv00.com
 tracker.theoks.net
 tracker.tinyvps.com
 tracker.torrent.eu.org
+tracker.torrustdemo.com
 tracker.tryhackx.org
 tracker.vanitycore.co
 tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
-tracker.yumehatsuyuki.moe
 tracker1.520.jp
 tracker1.myporn.club
 tracker2.dler.org
@@ -122,6 +123,7 @@ tracker4.itzmx.com
 tracker810.xyz
 ttk2.nbaonlineservice.com
 u4.trakx.crim.ist
+u6.trakx.crim.ist
 udp.tracker.projectk.org
 wepzone.net
 www.all4nothin.net
