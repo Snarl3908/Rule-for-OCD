@@ -20,6 +20,7 @@ exodus.desync.com
 explodie.org
 finbytes.org
 fleira.no
+fosstorrents.com
 highteahop.top
 home.yxgz.club
 ipv4.rer.lol
@@ -29,7 +30,6 @@ isk.richardsw.club
 ismaarino.com
 leettracker.moe
 martingebhardt.eu
-newline.net
 ns1.xfins.com
 nyaa.tracker.wf
 open.demonii.com
@@ -46,7 +46,6 @@ p4p.arenabg.com
 retracker.hotplug.ru
 retracker.lanta.me
 retracker.sparkrostov.ru
-retracker.x2k.ru
 seedersparadise.org
 servandroidkino.ru
 share.hkgfansub.info
@@ -56,8 +55,9 @@ t.jaekr.sh
 t.overflow.biz
 taciturnshadow.spb.ru
 tk.greedland.net
+torrent.tracker.durukanbal.com
 torrentsmd.com
-tr.burnabyhighstar.com
+tr.abir.ga
 tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
@@ -67,7 +67,6 @@ tracker.0x7c0.com
 tracker.aburaya.live
 tracker.beeimg.com
 tracker.bittor.pw
-tracker.bjut.jp
 tracker.breizh.pm
 tracker.bthash.com
 tracker.bt4g.com
@@ -80,6 +79,7 @@ tracker.dler.com
 tracker.dler.org
 tracker.dmcomic.org
 tracker.dump.cl
+tracker.edkj.club
 tracker.filemail.com
 tracker.fnix.net
 tracker.foreverpirates.co
@@ -89,6 +89,7 @@ tracker.gmi.gd
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.kmzs123.cn
+tracker.kmzs123.top
 tracker.kuroy.me
 tracker.leechshield.link
 tracker.lilithraws.org
@@ -114,8 +115,8 @@ tracker.vanitycore.co
 tracker.waaa.moe
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
+tracker.yumehatsuyuki.moe
 tracker1.520.jp
-tracker1.myporn.club
 tracker2.dler.org
 tracker2.itzmx.com
 tracker3.itzmx.com
