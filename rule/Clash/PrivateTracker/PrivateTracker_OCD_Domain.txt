@@ -8,12 +8,10 @@ bt.ktrackers.com
 bt.okmp3.ru
 bt.poletracker.org
 bt1.xxxxbt.cc
-bt2.080609.xyz
 buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
-discord.heihachi.pw
 ec218191163220.useast2.compute.amazonaws.com
 evan.im
 exodus.desync.com
@@ -46,6 +44,7 @@ p4p.arenabg.com
 retracker.hotplug.ru
 retracker.lanta.me
 retracker.sparkrostov.ru
+retracker.x2k.ru
 seedersparadise.org
 servandroidkino.ru
 share.hkgfansub.info
@@ -57,7 +56,6 @@ taciturnshadow.spb.ru
 tk.greedland.net
 torrent.tracker.durukanbal.com
 torrentsmd.com
-tr.abir.ga
 tr.burnabyhighstar.com
 tr.nyacat.pw
 tr.zukizuki.org
@@ -67,7 +65,6 @@ trackerzhuqiy.dgj055.icu
 tracker.0x7c0.com
 tracker.bittor.pw
 tracker.bjut.jp
-tracker.breizh.pm
 tracker.bthash.com
 tracker.bt4g.com
 tracker.bz
