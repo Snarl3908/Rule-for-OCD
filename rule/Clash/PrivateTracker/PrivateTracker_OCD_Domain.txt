@@ -12,6 +12,7 @@ buny.uk
 ch3oh.ru
 concen.org
 d40969.acod.regrucolo.ru
+discord.heihachi.pw
 ec218191163220.useast2.compute.amazonaws.com
 evan.im
 exodus.desync.com
@@ -25,6 +26,7 @@ ipv4announce.sktorrent.eu
 ipv6.rer.lol
 isk.richardsw.club
 ismaarino.com
+leettracker.moe
 martingebhardt.eu
 newline.net
 ns1.xfins.com
@@ -39,6 +41,7 @@ opentor.org
 opentracker.io
 p2p.publictracker.xyz
 p4p.arenabg.com
+region.nl1.privex.cc
 retracker.hotplug.ru
 retracker.lanta.me
 retracker.sparkrostov.ru
@@ -61,6 +64,7 @@ tr4ck3r.duckdns.org
 trackerudp.gbitt.info
 trackerzhuqiy.dgj055.icu
 tracker.0x7c0.com
+tracker.aburaya.live
 tracker.bittor.pw
 tracker.bjut.jp
 tracker.bthash.com
@@ -83,8 +87,8 @@ tracker.gmi.gd
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.kmzs123.cn
+tracker.kmzs123.top
 tracker.kuroy.me
-tracker.leechshield.link
 tracker.lilithraws.org
 tracker.lintk.me
 tracker.linvk.com
@@ -92,6 +96,7 @@ tracker.moeking.me
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.nanoha.org
+tracker.ololosh.space
 tracker.opentrackr.org
 tracker.openwebtorrent.com
 tracker.qu.ax
@@ -99,7 +104,6 @@ tracker.renfei.net
 tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
-tracker.theoks.net
 tracker.tinyvps.com
 tracker.torrent.eu.org
 tracker.torrustdemo.com
@@ -111,6 +115,7 @@ tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker.yumehatsuyuki.moe
 tracker1.520.jp
+tracker1.myporn.club
 tracker2.dler.org
 tracker2.itzmx.com
 tracker3.itzmx.com

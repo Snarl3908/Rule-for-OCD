@@ -25045,6 +25045,7 @@ self.events.data.microsoft.com
 +.5i01.com
 +.5isotoi5.org
 +.5maodang.com
++.611study.icu
 +.63i.com
 +.64museum.org
 +.64tianwang.com
@@ -28441,6 +28442,7 @@ self.events.data.microsoft.com
 +.newlandmagazine.com.au
 +.newmitbbs.com
 +.newnews.ca
++.news1.kr
 +.news100.com.tw
 +.newsancai.com
 +.newsblur.com
@@ -28836,6 +28838,7 @@ self.events.data.microsoft.com
 +.picjs.xyz
 +.picturedip.com
 +.picturesocial.com
++.picuki.com
 +.pigav.com
 +.pimg.tw
 +.pincong.com
