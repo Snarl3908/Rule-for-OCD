@@ -4,7 +4,6 @@
 api.ipv4online.uk
 bandito.byterunner.io
 bittorrenttracker.encrypt.net
-brokenhelix.loseyourip.com
 bt.ktrackers.com
 bt.okmp3.ru
 bt.poletracker.org
@@ -26,12 +25,13 @@ ipv4announce.sktorrent.eu
 ipv6.rer.lol
 isk.richardsw.club
 ismaarino.com
+leettracker.moe
 martingebhardt.eu
-newline.net
 nyaa.tracker.wf
 open.acgtracker.com
 open.demonii.com
 open.dstud.io
+open.freetracker.ga
 open.stealth.si
 open.tracker.cl
 open.tracker.ink
@@ -54,10 +54,10 @@ t.jaekr.sh
 t.overflow.biz
 taciturnshadow.spb.ru
 tk.greedland.net
+torrent.tracker.durukanbal.com
 torrentsmd.com
 tr.abir.ga
 tr.burnabyhighstar.com
-tr.nyacat.pw
 tr.zukizuki.org
 tr4ck3r.duckdns.org
 trackerudp.gbitt.info
@@ -86,7 +86,6 @@ tracker.gmi.gd
 tracker.ipv6tracker.org
 tracker.ipv6tracker.ru
 tracker.kmzs123.cn
-tracker.kmzs123.top
 tracker.kuroy.me
 tracker.lilithraws.org
 tracker.lintk.me
@@ -95,7 +94,7 @@ tracker.moeking.me
 tracker.moxing.party
 tracker.mywaifu.best
 tracker.nanoha.org
-tracker.nitrix.me
+tracker.netmap.top
 tracker.ololosh.space
 tracker.opentrackr.org
 tracker.openwebtorrent.com
@@ -104,15 +103,12 @@ tracker.renfei.net
 tracker.sbsub.com
 tracker.skyts.net
 tracker.srv00.com
-tracker.theoks.net
 tracker.tinyvps.com
 tracker.torrent.eu.org
-tracker.torrustdemo.com
 tracker.tryhackx.org
 tracker.valete.tf
 tracker.vanitycore.co
 tracker.waaa.moe
-tracker.wsaoa.eu.org
 tracker.xiaoduola.xyz
 tracker.yemekyedim.com
 tracker1.520.jp

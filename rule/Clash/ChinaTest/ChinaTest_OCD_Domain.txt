@@ -16475,6 +16475,8 @@ xnflw351e.com
 +.bestugali.com
 +.bestv6.com
 +.bestvapp.com
++.bestvcdn.com
++.bestvcdn.net
 +.bestvideocloud.com
 +.bestviewstock.com
 +.bestvist.com
@@ -43439,6 +43441,7 @@ xnflw351e.com
 +.hzdledu.com
 +.hzdlrj.com
 +.hzdq.com
++.hzdtv.tv
 +.hzdx.com
 +.hzecsemir.com
 +.hzefjs.com
@@ -64712,6 +64715,7 @@ xnflw351e.com
 +.qingnianwang.com
 +.qingpanduola.com
 +.qingpin.vip
++.qingping.co
 +.qingqikeji.com
 +.qingqin.com
 +.qingqingmedia.com
@@ -69324,6 +69328,7 @@ xnflw351e.com
 +.sharegog.com
 +.shareinstall.com
 +.shareinstall.net
++.shareintelli.com
 +.sharelogis.com
 +.sharemoon.club
 +.shareoneplanet.org
@@ -72391,6 +72396,7 @@ xnflw351e.com
 +.startuppartner.com
 +.starwarschina.com
 +.starway.net
++.starworldgames.com
 +.starxw.com
 +.starxiiient.com
 +.starxn.com
@@ -82608,6 +82614,7 @@ xnflw351e.com
 +.wzsxj.net
 +.wztf121.com
 +.wztlink1013.com
++.wztsy.com
 +.wzty.ltd
 +.wzu.com
 +.wzweisen.com
@@ -83689,13 +83696,22 @@ xnflw351e.com
 +.xiaomi.hk
 +.xiaomi.tw
 +.xiaomiaozai.com
++.xiaomidns.com
++.xiaomidns.net
 +.xiaomiev.com
++.xiaomiinc.com
++.xiaomiinc.net
 +.xiaomimobile.com
 +.xiaominet.com
 +.xiaominfo.com
++.xiaominr.com
++.xiaomiprint.com
 +.xiaomiqiu.com
 +.xiaomiquan.com
 +.xiaomirom.com
++.xiaomisa.com
++.xiaomisa.net
++.xiaomisa.org
 +.xiaomishu.com
 +.xiaomiwear.com
 +.xiaomixiaoai.com
